@@ -1,0 +1,35 @@
+body {
+ font-family: "Times New Roman", Times, serif
+ }
+h1 {
+/* font-size: 200%; */
+ text-align: center;
+ }
+
+a {
+    color: black;
+}
+
+#contenu{
+margin:auto;
+background-color: navy; 
+display:table;
+}
+
+#eleve{
+min-width:400px;
+background-color: #EFA907; 
+display:table-cell;
+vertical-align:center;
+padding:20px;
+text-align: center;
+}
+
+#prof{
+min-width:400px;
+background-color:#66ffd9; 
+padding:20px;
+display:table-cell;
+vertical-align:center;
+text-align: center;
+}
